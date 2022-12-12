@@ -1,8 +1,8 @@
 # Bootcamp Projects
 
-Data Rockies
+Data Analyst Bootcamp
 
-welearn 10 sprints during 4 month program.
+we learn 10 sprints during 4 month program.
 
 - Speadsheets
 - SQL Database
