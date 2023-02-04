@@ -14,6 +14,8 @@ we learn 10 sprints during 4 month program.
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
+Badge:
+
 
 Dashboard basic
-[https://lookerstudio.google.com/s/gV7rEcHgjDg]
+[Looker studio](https://lookerstudio.google.com/s/gV7rEcHgjDg)
