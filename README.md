@@ -14,8 +14,10 @@ we learn 10 sprints during 4 month program.
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
+
 Badge:[Certified Professional Data Analyst](https://badgr.com/backpack/badges/63c92469f2a88028c26e1f28)
 ![DATAROCKIELOGO](https://user-images.githubusercontent.com/120380550/216773477-842001d3-d87b-460e-88d0-0c0edbd98af3.png)
+
 
 
 
